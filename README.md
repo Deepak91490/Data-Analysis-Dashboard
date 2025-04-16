@@ -49,3 +49,7 @@ understand key trends.
 (Worst: The Brie Carre is at the bottom in both orders and revenue.)
 
 
+## Final Conclusion
+-	Focus promotions and staffing efforts around weekend evenings and peak hours.
+-	Leverage the popularity of the Classic and Large-sized pizzas by offering combo deals or limited-time offers.
+-	Reassess the Brie Carre offering—analyze customer feedback or consider replacing it with a more appealing option.
