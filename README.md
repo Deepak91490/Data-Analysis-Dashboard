@@ -31,3 +31,6 @@ understand key trends.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 
+## Dashboard
+![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/053c4a80-1a5c-4867-8ae9-d714a55ee710)
+
