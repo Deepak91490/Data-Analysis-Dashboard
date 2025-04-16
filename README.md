@@ -23,6 +23,8 @@ understand key trends.
 6.	Top 5 Best Sellers by Total Pizzas Sold:
 7.	Bottom 5 Worst Sellers by Total Pizzas Sold
 
+## Tools used
+Microsoft Excel
 - Dashboard Interaction <a href= "https://github.com/Deepak91490/Data-Analysis-Dashboard/blob/main/Pizza_Sales_Dashboard.png">View Dashboard</a>
 
 ## Process
