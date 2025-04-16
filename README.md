@@ -26,8 +26,8 @@ understand key trends.
 - Dashboard Interaction <a href= "https://github.com/Deepak91490/Data-Analysis-Dashboard/blob/main/Pizza_Sales_Dashboard.png">View Dashboard</a>
 
 ## Process
--Verify data for any missing values and anomalies and sort out the same.
--Make sure data is consistent and clean with respect to data type, data format and values used.
+- Verify data for any missing values and anomalies and sort out the same.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
--Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make it dynamic.
 
