@@ -1,2 +1,6 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating dashboard and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
+# Pizza Sales-Data-Analysis(Interactive Dashboard creation using MS Excel)
+## Objective:
+We need to analyze key indicators for our pizza sales data to gain insights into our business
+Performance.
+We would like to visualize various aspects of our pizza sales data to gain insights and
+understand key trends.
