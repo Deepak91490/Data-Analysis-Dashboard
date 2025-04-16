@@ -34,3 +34,17 @@ understand key trends.
 ## Dashboard
 ![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/053c4a80-1a5c-4867-8ae9-d714a55ee710)
 
+## Project Insights
+-	Bussiest Days and Times
+Days: Orders are highest on weekends, Friday/Saturday evenings.
+
+Times: There are maximum orders from 12 - 01pm & after 4 - 8pm.
+
+-	Sales by Category & Size
+Category: Classic category contributes to maximum Sales & total orders.
+Size: Large size pizza contribute to maximum sales.
+-	Best & Worst Sellers
+Best: Classic, Deluxe & Chicken are the top sellers and revenue generators.
+Worst: The Brie Carre is at the bottom in both orders and revenue.
+
+
