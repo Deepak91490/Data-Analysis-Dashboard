@@ -7,7 +7,7 @@ understand key trends.
 ## Dataset used
 - <a href= "https://github.com/Deepak91490/Data-Analysis-Dashboard/blob/main/EXCEL%20Pizza%20DB%20Dahsboard.xlsx">Dataset</a>
 
-##KPI’s REQUIREMENT
+## KPI’s REQUIREMENT
 1.	Total Revenue: The sum of the total prize of all pizza orders.
 2.	Average Order Value: The average amount spent per order, calculated by dividing the
 total revenue by the total number of orders.
